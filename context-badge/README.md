@@ -13,4 +13,4 @@ Xcode 프로젝트 `Playground`(로컬: `~/Developer/Playground`)의 Context Bad
 
 ## 배포
 
-_(연결 후 링크 추가 예정)_
+https://manta-prototypes.vercel.app/context-badge/
